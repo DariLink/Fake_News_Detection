@@ -1,4 +1,4 @@
-# Fake_News_Detection
+# Fake News Detection for German Fake News
 Our project for the course "Transformer-based Natural Language Processing"
 
 Used Data Set: 
@@ -19,6 +19,9 @@ Further Experiments
 - Statistical Analysis of featues in the feature model
 - SHAP Analysis of most important featues in the feature model
 - Drill-down analysis for missclassied samples in different souces
+
+
+
 
 
 
